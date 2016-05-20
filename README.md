@@ -1,5 +1,5 @@
 # incling_task
-This is a simple django task to implement relationship between a school, classes and students.
+This is a simple django project to implement relationship between a school, classes and students.
 
 The data can be manipulated using the built-in django admin.
 
